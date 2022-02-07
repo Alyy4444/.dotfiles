@@ -10,6 +10,7 @@ module.exports = {
 		.addField('!hello', 'says hello to the bot')
 		.addField('!say', 'will repeat what you say')
 		.addField('!reminders', 'lists out your reminders')
+	        .addField('!pog', 'POGGERS')
 		.setColor('#40bcaf')
 
 		message.channel.send({ embeds: [help] })
