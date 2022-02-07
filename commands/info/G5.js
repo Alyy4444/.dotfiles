@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 
 module.exports = {
-    name: "G5",
+    name: "g5",
     category: "info",
     permissions: [],
     devOnly: false,

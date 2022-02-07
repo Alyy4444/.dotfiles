@@ -1,4 +1,7 @@
 module.exports = {
+    
+    at name it must start with lowercase 
+
     name: "pog",
     category: "info",
     permissions: [],
