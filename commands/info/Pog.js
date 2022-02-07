@@ -4,6 +4,6 @@ module.exports = {
     permissions: [],
     devOnly: false,
     run: async ({client, message, args}) => {
-        message.reply("POGGERS")
+        message.reply("Poggers")
     }
 }
