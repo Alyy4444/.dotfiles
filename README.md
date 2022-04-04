@@ -3,6 +3,9 @@ dotfiles by Alr4
 
 # Required app
 
+ulauncher
+Qtile
+kitty
 
 
 #THEMES
