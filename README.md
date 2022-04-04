@@ -13,7 +13,7 @@ dotfiles by Alr4
 - Alternatively, you can download the PKGBUILD file from the repo and run makepkg -sci
 
 
-#THEMES
+# THEMES
 - lxappearance
 
 - Widget = Arc-Dark
