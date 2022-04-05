@@ -16,6 +16,6 @@ dotfiles by Alr4
 # THEMES
 - lxappearance
 
-- Widget = Arc-Dark
-- Icon = Papirus-Dark
-- Cursor = Neutral
+- Widget = Kripton
+- Icon = Nordic-Folders
+- Cursor = LyraB
